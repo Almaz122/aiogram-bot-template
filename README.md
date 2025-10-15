@@ -143,11 +143,11 @@ You can learn how to develop telegram bots using the `aiogram` framework in the 
 1. Clone the repository to your local machine via HTTPS:
 
 ```bash
-git clone https://github.com/kmsint/aiogram_bot_template.git
+git clone https://github.com/Almaz122/aiogram-bot-template.git
 ```
 or via SSH:
 ```bash
-git clone git@github.com:kmsint/aiogram_bot_template.git
+git clone git@github.com:Almaz122/aiogram-bot-template.git
 ```
 
 2. Create a `docker-compose.yml` file in the root of the project and copy the code from the `docker-compose.example` file into it.
@@ -216,5 +216,4 @@ nats --version
 
 ## TODO
 
-1. Add mailing service
-2. Set up a CICD pipeline using Docker and GitHub Actions
+1. Add database
